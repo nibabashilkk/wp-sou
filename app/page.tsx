@@ -302,10 +302,10 @@ function HomeContent() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-10">
             <div className="text-center space-y-6">
               <h1 className="text-4xl sm:text-3xl font-bold tracking-tight bg-gradient-to-r from-primary/80 to-primary bg-clip-text text-transparent animate-gradient">
-                爱盼短剧
+                XX资源社
               </h1>
               <p className="text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-                海量短剧资源，随心观看
+                海量网盘资源，随心搜
               </p>
             </div>
 

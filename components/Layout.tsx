@@ -102,7 +102,7 @@ export default function Layout({ children }: LayoutProps) {
           <div className="mr-4 hidden md:flex">
             <Link href="/" className="flex items-center space-x-2">
               <span className="text-xl font-bold bg-gradient-to-r from-primary/90 to-primary bg-clip-text text-transparent">
-                爱盼短剧
+                XX资源社
               </span>
             </Link>
           </div>
